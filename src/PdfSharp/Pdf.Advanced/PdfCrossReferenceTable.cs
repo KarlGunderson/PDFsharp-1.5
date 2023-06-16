@@ -72,7 +72,7 @@ namespace PdfSharp.Pdf.Advanced
                 iref.ObjectID = new PdfObjectID(GetNewObjectNumber());
 
             if (ObjectTable.ContainsKey(iref.ObjectID))
-                throw new InvalidOperationException("Object already in table.");
+                ObjectTable.Remove(iref.ObjectID);
 
             ObjectTable.Add(iref.ObjectID, iref);
         }
