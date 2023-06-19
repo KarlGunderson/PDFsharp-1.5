@@ -28,11 +28,11 @@
 #endregion
 
 using System;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.AcroForms;
-using PdfSharp.Pdf.Structure;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.AcroForms;
+using PdfSharpMedSol.Pdf.Structure;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents the catalog dictionary.

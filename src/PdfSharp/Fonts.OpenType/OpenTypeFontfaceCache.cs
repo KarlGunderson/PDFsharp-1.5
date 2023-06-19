@@ -32,9 +32,9 @@ using System.Diagnostics;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// Global table of all OpenType fontfaces cached by their face name and check sum.

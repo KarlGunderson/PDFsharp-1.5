@@ -44,14 +44,14 @@ using WpfFontFamily = System.Windows.Media.FontFamily;
 using WpfGlyphTypeface = System.Windows.Media.GlyphTypeface;
 using WpfTypeface = System.Windows.Media.Typeface;
 #endif
-using PdfSharp.Drawing;
-using PdfSharp.Fonts.OpenType;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Fonts.OpenType;
+using PdfSharpMedSol.Internal;
 
 #pragma warning disable 1591
 // ReSharper disable RedundantNameQualifier
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
     /// <summary>
     /// Provides functionality to map a fontface request to a physical font.

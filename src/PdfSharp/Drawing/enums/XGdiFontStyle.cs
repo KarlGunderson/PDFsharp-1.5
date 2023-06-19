@@ -31,7 +31,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Backward compatibility.

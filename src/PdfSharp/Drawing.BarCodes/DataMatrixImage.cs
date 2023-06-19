@@ -41,7 +41,7 @@ using System.Windows.Media;
 // WPFHACK
 #pragma warning disable 162
 
-namespace PdfSharp.Drawing.BarCodes
+namespace PdfSharpMedSol.Drawing.BarCodes
 {
     /// <summary>
     /// Creates the XImage object for a DataMatrix.

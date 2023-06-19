@@ -35,10 +35,10 @@ using System.Drawing;
 using System.Windows;
 #endif
 using System.Diagnostics;
-using PdfSharp.Drawing;
-using PdfSharp.Fonts;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Fonts;
 
-namespace PdfSharp.Internal
+namespace PdfSharpMedSol.Internal
 {
     /// <summary>
     /// A bunch of internal helper functions.

@@ -29,10 +29,10 @@
 
 using System;
 using System.Diagnostics;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Base class of all composite PDF objects.

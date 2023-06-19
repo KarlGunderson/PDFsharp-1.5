@@ -31,9 +31,9 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf.Internal
+namespace PdfSharpMedSol.Pdf.Internal
 {
     /// <summary>
     /// Provides a thread-local cache for large objects.

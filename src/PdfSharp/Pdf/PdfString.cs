@@ -30,10 +30,10 @@
 using System;
 using System.Diagnostics;
 using System.Text;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     // TODO: Make code more readeable with PDF 1.7 strings: text string, ASCII string, byte string etc.
 

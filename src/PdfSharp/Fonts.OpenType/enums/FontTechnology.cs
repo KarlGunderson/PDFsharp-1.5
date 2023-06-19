@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// Identifies the technology of an OpenType font file.

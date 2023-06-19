@@ -27,9 +27,9 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp.Internal
+namespace PdfSharpMedSol.Internal
 {
     // In PDFsharp hybrid build both GDI and WPF is defined.
     // This is for development and testing only.

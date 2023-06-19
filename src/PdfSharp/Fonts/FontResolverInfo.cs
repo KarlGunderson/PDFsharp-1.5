@@ -30,7 +30,7 @@
 using System;
 using System.Diagnostics;
 using System.Globalization;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 #if CORE
 using System.Drawing;
 #endif
@@ -41,7 +41,7 @@ using System.Drawing;
 using System.Windows.Media;
 #endif
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
     // The English terms font, font family, typeface, glyph etc. are sometimes confusingly used.
     // Here a short clarification by Wikipedia.

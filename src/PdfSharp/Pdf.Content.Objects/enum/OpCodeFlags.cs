@@ -29,7 +29,7 @@
 
 using System;
 
-namespace PdfSharp.Pdf.Content.Objects
+namespace PdfSharpMedSol.Pdf.Content.Objects
 {
     /// <summary>
     /// Specifies the group of operations the op-code belongs to.

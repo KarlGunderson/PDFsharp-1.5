@@ -29,7 +29,7 @@
 
 // ReSharper disable ConvertToAutoProperty
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Holds information how to handle the document when it is saved as PDF stream.

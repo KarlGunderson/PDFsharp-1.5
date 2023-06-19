@@ -29,11 +29,11 @@
 
 using System;
 using System.Collections.Generic;
-using PdfSharp.Drawing;
-using PdfSharp.Fonts.OpenType;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Fonts.OpenType;
+using PdfSharpMedSol.Internal;
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
     /// <summary>
     /// Global table of OpenType font descriptor objects.

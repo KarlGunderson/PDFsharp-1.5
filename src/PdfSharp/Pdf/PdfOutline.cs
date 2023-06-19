@@ -33,13 +33,13 @@ using System;
 using System.Diagnostics;
 using System.Globalization;
 using System.Text;
-using PdfSharp.Drawing;
-using PdfSharp.Pdf.Actions;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Pdf.Actions;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents an outline item in the outlines tree. An 'outline' is also known as a 'bookmark'.

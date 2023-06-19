@@ -31,9 +31,9 @@ using System;
 using System.Diagnostics;
 using System.Collections.Generic;
 using System.Reflection;
-using PdfSharp.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Advanced;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Holds information about the value of a key in a dictionary. This information is used to create

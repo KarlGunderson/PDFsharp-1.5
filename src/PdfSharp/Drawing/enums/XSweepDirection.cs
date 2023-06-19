@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Defines the direction an elliptical arc is drawn.

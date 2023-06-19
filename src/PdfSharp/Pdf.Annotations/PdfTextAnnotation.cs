@@ -29,7 +29,7 @@
 
 using System;
 
-namespace PdfSharp.Pdf.Annotations
+namespace PdfSharpMedSol.Pdf.Annotations
 {
     /// <summary>
     /// Represents a text annotation.

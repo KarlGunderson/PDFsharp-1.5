@@ -54,10 +54,10 @@ using WpfGlyphTypeface = System.Windows.Media.GlyphTypeface;
 using Windows.UI.Text;
 using Windows.UI.Xaml.Media;
 #endif
-using PdfSharp.Fonts;
-using PdfSharp.Fonts.OpenType;
+using PdfSharpMedSol.Fonts;
+using PdfSharpMedSol.Fonts.OpenType;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// A bunch of functions that do not have a better place.

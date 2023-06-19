@@ -29,7 +29,7 @@
 
 using System;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Specifies the direction of the y-axis.

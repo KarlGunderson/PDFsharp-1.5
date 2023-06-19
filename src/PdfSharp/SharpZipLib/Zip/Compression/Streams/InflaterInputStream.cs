@@ -49,7 +49,7 @@ using System.IO;
 using System.Security.Cryptography;
 #endif
 
-namespace PdfSharp.SharpZipLib.Zip.Compression.Streams
+namespace PdfSharpMedSol.SharpZipLib.Zip.Compression.Streams
 {
 
     /// <summary>

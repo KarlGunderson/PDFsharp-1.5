@@ -35,19 +35,19 @@ using System.Runtime.InteropServices;
 using System.Windows.Markup;
 #endif
 
-[assembly: AssemblyTitle(PdfSharp.VersionInfo.Title)]
-[assembly: AssemblyVersion(PdfSharp.VersionInfo.Version)]
-[assembly: AssemblyDescription(PdfSharp.VersionInfo.Description)]
-[assembly: AssemblyConfiguration(PdfSharp.VersionInfo.Configuration)]
-[assembly: AssemblyCompany(PdfSharp.VersionInfo.Company)]
+[assembly: AssemblyTitle(PdfSharpMedSol.VersionInfo.Title)]
+[assembly: AssemblyVersion(PdfSharpMedSol.VersionInfo.Version)]
+[assembly: AssemblyDescription(PdfSharpMedSol.VersionInfo.Description)]
+[assembly: AssemblyConfiguration(PdfSharpMedSol.VersionInfo.Configuration)]
+[assembly: AssemblyCompany(PdfSharpMedSol.VersionInfo.Company)]
 #if DEBUG
-[assembly: AssemblyProduct(PdfSharp.ProductVersionInfo.Product + " (Debug Build)")]
+[assembly: AssemblyProduct(PdfSharpMedSol.ProductVersionInfo.Product + " (Debug Build)")]
 #else
   [assembly: AssemblyProduct(PdfSharp.ProductVersionInfo.Product)]
 #endif
-[assembly: AssemblyCopyright(PdfSharp.VersionInfo.Copyright)]
-[assembly: AssemblyTrademark(PdfSharp.VersionInfo.Trademark)]
-[assembly: AssemblyCulture(PdfSharp.VersionInfo.Culture)]
+[assembly: AssemblyCopyright(PdfSharpMedSol.VersionInfo.Copyright)]
+[assembly: AssemblyTrademark(PdfSharpMedSol.VersionInfo.Trademark)]
+[assembly: AssemblyCulture(PdfSharpMedSol.VersionInfo.Culture)]
 
 [assembly: NeutralResourcesLanguage("en-US")]
 

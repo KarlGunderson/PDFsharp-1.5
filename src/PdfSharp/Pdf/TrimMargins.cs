@@ -28,9 +28,9 @@
 #endregion
 
 using System.Diagnostics;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents trim margins added to the page.

@@ -38,11 +38,11 @@
 // exception statement from your version.
 
 using System;
-using PdfSharp.SharpZipLib.Checksums;
+using PdfSharpMedSol.SharpZipLib.Checksums;
 
 // ReSharper disable RedundantThisQualifier
 
-namespace PdfSharp.SharpZipLib.Zip.Compression
+namespace PdfSharpMedSol.SharpZipLib.Zip.Compression
 {
 
     /// <summary>

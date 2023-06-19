@@ -35,7 +35,7 @@ using System.Diagnostics;
 //using FWord = System.Int16;
 //using UFWord = System.UInt16;
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// Represents an entry in the fonts table dictionary.

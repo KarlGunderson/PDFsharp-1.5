@@ -28,9 +28,9 @@
 #endregion
 
 using System.Diagnostics;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents a direct boolean value.

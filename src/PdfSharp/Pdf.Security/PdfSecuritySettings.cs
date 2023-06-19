@@ -29,7 +29,7 @@
 
 using System;
 
-namespace PdfSharp.Pdf.Security
+namespace PdfSharpMedSol.Pdf.Security
 {
     /// <summary>
     /// Encapsulates access to the security settings of a PDF document.

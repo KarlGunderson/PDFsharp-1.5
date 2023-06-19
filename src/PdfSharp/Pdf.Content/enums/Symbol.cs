@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Pdf.Content
+namespace PdfSharpMedSol.Pdf.Content
 {
     /// <summary>
     /// Terminal symbols recognized by PDF content stream lexer.

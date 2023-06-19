@@ -32,9 +32,9 @@ using System.Diagnostics;
 using System.Reflection;
 using System.Text;
 using System.IO;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Provides access to the internal document data structures. This class prevents the public

@@ -28,10 +28,10 @@
 #endregion
 
 using System;
-using PdfSharp.Drawing;
-using PdfSharp.Pdf;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Pdf;
 
-namespace PdfSharp.Events
+namespace PdfSharpMedSol.Events
 {
     /// <summary>
     /// Base class for EventArgs in PDFsharp.

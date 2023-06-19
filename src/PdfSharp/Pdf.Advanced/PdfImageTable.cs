@@ -31,9 +31,9 @@ using System;
 using System.Diagnostics;
 using System.Collections.Generic;
 using System.Globalization;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Contains all used images of a document.

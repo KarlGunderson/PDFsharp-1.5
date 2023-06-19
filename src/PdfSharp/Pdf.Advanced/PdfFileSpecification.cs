@@ -1,4 +1,4 @@
-﻿namespace PdfSharp.Pdf.Advanced
+﻿namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents a file specification dictionary.

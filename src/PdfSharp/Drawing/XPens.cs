@@ -31,7 +31,7 @@
 
 #define USE_CACHE_is_not_thread_safe
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Pens for all the pre-defined colors.

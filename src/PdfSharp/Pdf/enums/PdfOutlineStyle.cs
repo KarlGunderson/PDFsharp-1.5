@@ -31,7 +31,7 @@
 
 using System;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Specifies the font style for the outline (bookmark) text.

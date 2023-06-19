@@ -30,7 +30,7 @@
 
 using System;
 
-namespace PdfSharp.Drawing.BarCodes
+namespace PdfSharpMedSol.Drawing.BarCodes
 {
     /// <summary>
     /// Represents the base class of all 2D codes.

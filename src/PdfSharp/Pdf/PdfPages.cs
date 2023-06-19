@@ -31,12 +31,12 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Collections;
-using PdfSharp.Events;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Annotations;
+using PdfSharpMedSol.Events;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Annotations;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents the pages of the document.

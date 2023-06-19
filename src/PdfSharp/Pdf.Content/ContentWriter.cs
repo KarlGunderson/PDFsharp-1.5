@@ -30,9 +30,9 @@
 using System;
 using System.Diagnostics;
 using System.IO;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf.Content
+namespace PdfSharpMedSol.Pdf.Content
 {
     /// <summary>
     /// Represents a writer for generation of PDF streams. 

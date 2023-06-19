@@ -44,7 +44,7 @@ using UwpColor = Windows.UI.Color;
 
 // ReSharper disable RedundantNameQualifier
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     ///<summary>
     /// Represents a RGB, CMYK, or gray scale color.

@@ -30,7 +30,7 @@
 using System;
 using System.Diagnostics;
 using System.IO;
-using PdfSharp.Pdf;
+using PdfSharpMedSol.Pdf;
 #if CORE
 using System.Drawing;
 #endif
@@ -47,16 +47,16 @@ using System.Windows.Media.Imaging;
 #if NETFX_CORE || UWP
 using Windows.UI.Xaml.Media.Imaging;
 #endif
-using PdfSharp.Drawing.Internal;
-using PdfSharp.Internal;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Advanced;
+using PdfSharpMedSol.Drawing.Internal;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Advanced;
 
 // WPFHACK
 #pragma warning disable 0169
 #pragma warning disable 0649
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     [Flags]
     internal enum XImageState

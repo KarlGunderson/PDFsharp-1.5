@@ -30,11 +30,11 @@
 using System;
 using System.Collections.Generic;
 using System.Collections;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
 // Review: CountOpen does not work. - StL/14-10-05
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents a collection of outlines.
@@ -241,7 +241,7 @@ namespace PdfSharp.Pdf
         }
 
         /// <summary>
-        /// Gets the <see cref="PdfSharp.Pdf.PdfOutline"/> at the specified index.
+        /// Gets the <see cref="PdfSharpMedSol.Pdf.PdfOutline"/> at the specified index.
         /// </summary>
         public PdfOutline this[int index]
         {

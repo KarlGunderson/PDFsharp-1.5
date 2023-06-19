@@ -37,9 +37,9 @@
 
 using System;
 
-using PdfSharp.SharpZipLib.Zip.Compression.Streams;
+using PdfSharpMedSol.SharpZipLib.Zip.Compression.Streams;
 
-namespace PdfSharp.SharpZipLib.Zip.Compression
+namespace PdfSharpMedSol.SharpZipLib.Zip.Compression
 {
     /// <summary>
     /// Huffman tree used for inflation

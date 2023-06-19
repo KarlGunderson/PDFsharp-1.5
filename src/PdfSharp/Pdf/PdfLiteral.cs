@@ -32,12 +32,12 @@ using System.Collections;
 using System.Globalization;
 using System.Text;
 using System.IO;
-using PdfSharp.Drawing;
-using PdfSharp.Internal;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents text that is written 'as it is' into the PDF stream. This class can lead to invalid PDF files.

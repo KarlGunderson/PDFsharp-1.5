@@ -28,11 +28,11 @@
 #endregion
 
 using System;
-using PdfSharp.Pdf.Actions;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Actions;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf.Annotations
+namespace PdfSharpMedSol.Pdf.Annotations
 {
     /// <summary>
     /// Represents a link annotation.

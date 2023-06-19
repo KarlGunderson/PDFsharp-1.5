@@ -51,10 +51,10 @@ using WpfFontFamily = System.Windows.Media.FontFamily;
 using WpfTypeface = System.Windows.Media.Typeface;
 using WpfGlyphTypeface = System.Windows.Media.GlyphTypeface;
 #endif
-using PdfSharp.Fonts;
+using PdfSharpMedSol.Fonts;
 #if !EDF_CORE
-using PdfSharp.Drawing;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Internal;
 #endif
 
 using Fixed = System.Int32;
@@ -63,7 +63,7 @@ using UFWord = System.UInt16;
 
 #pragma warning disable 0649
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// Represents an OpenType fontface in memory.

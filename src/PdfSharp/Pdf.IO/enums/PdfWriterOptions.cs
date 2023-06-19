@@ -29,7 +29,7 @@
 
 using System;
 
-namespace PdfSharp.Pdf.IO
+namespace PdfSharpMedSol.Pdf.IO
 {
     /// <summary>
     /// INTERNAL USE ONLY.

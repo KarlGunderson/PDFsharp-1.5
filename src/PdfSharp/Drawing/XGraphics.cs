@@ -74,18 +74,18 @@ using SysPoint = Windows.Foundation.Point;
 using SysSize = Windows.Foundation.Size;
 using SysRect = Windows.Foundation.Rect;
 #endif
-using PdfSharp.Pdf;
-using PdfSharp.Drawing.Pdf;
-using PdfSharp.Events;
-using PdfSharp.Internal;
-using PdfSharp.Pdf.Advanced;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Drawing.Pdf;
+using PdfSharpMedSol.Events;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf.Advanced;
 
 #pragma warning disable 1587
 // ReSharper disable UseNullPropagation
 // ReSharper disable RedundantNameQualifier
 // ReSharper disable UseNameofExpression
 
-namespace PdfSharp.Drawing  // #??? Clean up
+namespace PdfSharpMedSol.Drawing  // #??? Clean up
 {
     /// <summary>
     /// Holds information about the current state of the XGraphics object.
@@ -399,7 +399,7 @@ namespace PdfSharp.Drawing  // #??? Clean up
 #if GDI && WPF
             TargetContext = PdfSharp.Internal.TargetContextHelper.TargetContext;
 #endif
-            _renderer = new PdfSharp.Drawing.Pdf.XGraphicsPdfRenderer(page, this, options);
+            _renderer = new PdfSharpMedSol.Drawing.Pdf.XGraphicsPdfRenderer(page, this, options);
             _pageSizePoints = new XSize(page.Width, page.Height);
             switch (pageUnit)
             {
@@ -5251,7 +5251,7 @@ namespace PdfSharp.Drawing  // #??? Clean up
         {
             get
             {
-                XGraphicsPdfRenderer renderer = _renderer as PdfSharp.Drawing.Pdf.XGraphicsPdfRenderer;
+                XGraphicsPdfRenderer renderer = _renderer as PdfSharpMedSol.Drawing.Pdf.XGraphicsPdfRenderer;
                 return renderer != null ? renderer._page : null;
             }
         }

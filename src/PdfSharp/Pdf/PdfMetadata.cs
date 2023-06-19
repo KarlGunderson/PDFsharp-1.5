@@ -28,9 +28,9 @@
 #endregion
 
 using System;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents an XML Metadata stream.

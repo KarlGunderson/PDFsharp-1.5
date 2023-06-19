@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Pdf.Structure
+namespace PdfSharpMedSol.Pdf.Structure
 {
     /// <summary>
     /// Base class for PDF attributes objects.
@@ -35,7 +35,7 @@ namespace PdfSharp.Pdf.Structure
     public abstract class PdfAttributesBase : PdfDictionary
     {
         /// <summary>
-        /// Constructor of the abstract <see cref="PdfSharp.Pdf.Structure.PdfAttributesBase"/> class.
+        /// Constructor of the abstract <see cref="PdfSharpMedSol.Pdf.Structure.PdfAttributesBase"/> class.
         /// </summary>
         /// <param name="document">The document that owns this object.</param>
         internal PdfAttributesBase(PdfDocument document)
@@ -43,7 +43,7 @@ namespace PdfSharp.Pdf.Structure
         { }
 
         /// <summary>
-        /// Constructor of the abstract <see cref="PdfSharp.Pdf.Structure.PdfAttributesBase"/> class.
+        /// Constructor of the abstract <see cref="PdfSharpMedSol.Pdf.Structure.PdfAttributesBase"/> class.
         /// </summary>
         protected PdfAttributesBase()
         { }

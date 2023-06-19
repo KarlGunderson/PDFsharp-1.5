@@ -31,7 +31,7 @@
 
 using System;
 using System.ComponentModel;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 #if GDI
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -56,7 +56,7 @@ using Microsoft.Graphics.Canvas.Brushes;
 
 // ReSharper disable RedundantNameQualifier because it is required for hybrid build
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Defines a Brush with a radial gradient.

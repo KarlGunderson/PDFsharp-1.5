@@ -29,9 +29,9 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Represents a graphics path that uses the same notation as GDI+.

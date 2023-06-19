@@ -40,7 +40,7 @@ using Microsoft.Graphics.Canvas.Brushes;
 using UwpColor = Windows.UI.Color;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Classes derived from this abstract base class define objects used to fill the 

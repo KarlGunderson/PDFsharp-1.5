@@ -38,12 +38,12 @@ using System.Drawing.Drawing2D;
 using System.Windows;
 using System.Windows.Media;
 #endif
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Internal;
 #if !EDF_CORE
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 #endif
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// The OpenType font descriptor.

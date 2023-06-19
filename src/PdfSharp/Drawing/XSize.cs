@@ -45,12 +45,12 @@ using SysPoint = Windows.Foundation.Point;
 using SysSize = Windows.Foundation.Size;
 #endif
 #if !EDF_CORE
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 #else
 using PdfSharp.Internal;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Represents a pair of floating-point numbers, typically the width and height of a

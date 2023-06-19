@@ -29,8 +29,8 @@
 
 using System;
 using System.Globalization;
-using PdfSharp.Pdf.Content;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.Content;
+using PdfSharpMedSol.Pdf.IO;
 
 #if GDI
 using System.Drawing;
@@ -39,7 +39,7 @@ using System.Drawing;
 using System.Windows;
 #endif
 
-namespace PdfSharp.Internal
+namespace PdfSharpMedSol.Internal
 {
     enum NotImplementedBehaviour
     {

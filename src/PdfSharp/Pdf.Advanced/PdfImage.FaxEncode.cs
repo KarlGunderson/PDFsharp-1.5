@@ -57,7 +57,7 @@
 using System;
 using System.Diagnostics;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     partial class PdfImage
     {

@@ -34,9 +34,9 @@ using System.Drawing;
 #if WPF
 using System.Windows;
 #endif
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp
+namespace PdfSharpMedSol
 {
     /// <summary>
     /// Converter from <see cref="PageSize"/> to <see cref="XSize"/>.

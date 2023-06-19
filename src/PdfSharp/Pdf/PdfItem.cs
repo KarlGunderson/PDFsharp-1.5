@@ -28,9 +28,9 @@
 #endregion
 
 using System;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// The base class of all PDF objects and simple PDF types.

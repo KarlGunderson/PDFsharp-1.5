@@ -33,10 +33,10 @@ using System.Diagnostics;
 using System.Collections;
 using System.Globalization;
 using System.Text;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents a PDF array object.

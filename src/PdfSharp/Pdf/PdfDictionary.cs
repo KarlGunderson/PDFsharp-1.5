@@ -34,13 +34,13 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Reflection;
 using System.Text;
-using PdfSharp.Drawing;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Filters;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Filters;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Value creation flags. Specifies whether and how a value that does not exist is created.

@@ -37,7 +37,7 @@
 
 using System;
 
-namespace PdfSharp.SharpZipLib.Checksums
+namespace PdfSharpMedSol.SharpZipLib.Checksums
 {
 
     /// <summary>
@@ -84,8 +84,8 @@ namespace PdfSharp.SharpZipLib.Checksums
     ///    checked separately. (Any sequence of zeroes has a Fletcher
     ///    checksum of zero.)"
     /// </summary>
-    /// <see cref="PdfSharp.SharpZipLib.Zip.Compression.Streams.InflaterInputStream"/>
-    /// <see cref="PdfSharp.SharpZipLib.Zip.Compression.Streams.DeflaterOutputStream"/>
+    /// <see cref="PdfSharpMedSol.SharpZipLib.Zip.Compression.Streams.InflaterInputStream"/>
+    /// <see cref="PdfSharpMedSol.SharpZipLib.Zip.Compression.Streams.DeflaterOutputStream"/>
     internal sealed class Adler32 : IChecksum
     {
         /// <summary>

@@ -28,9 +28,9 @@
 #endregion
 
 using System;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp.Pdf.Annotations
+namespace PdfSharpMedSol.Pdf.Annotations
 {
     /// <summary>
     /// Represents a rubber stamp annotation.

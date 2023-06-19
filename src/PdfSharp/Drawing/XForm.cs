@@ -38,12 +38,12 @@ using System.Drawing.Imaging;
 #if WPF
 using System.Windows.Media;
 #endif
-using PdfSharp.Drawing.Pdf;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Filters;
+using PdfSharpMedSol.Drawing.Pdf;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Filters;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Represents a graphical object that can be used to render retained graphics on it.

@@ -32,7 +32,7 @@ using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Runtime.InteropServices;
-using PdfSharp.Fonts;
+using PdfSharpMedSol.Fonts;
 #if CORE || GDI
 using GdiFont = System.Drawing.Font;
 using GdiFontStyle = System.Drawing.FontStyle;
@@ -45,10 +45,10 @@ using WpfFontFamily = System.Windows.Media.FontFamily;
 using WpfTypeface = System.Windows.Media.Typeface;
 using WpfGlyphTypeface = System.Windows.Media.GlyphTypeface;
 #endif
-using PdfSharp.Internal;
-using PdfSharp.Fonts.OpenType;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Fonts.OpenType;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// The bytes of a font file.

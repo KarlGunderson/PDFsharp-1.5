@@ -29,10 +29,10 @@
 
 using System;
 using System.Diagnostics;
-using PdfSharp.Pdf.Annotations;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.Annotations;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents a number tree node.

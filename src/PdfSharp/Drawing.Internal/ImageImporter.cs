@@ -29,9 +29,9 @@
 
 using System.Collections.Generic;
 using System.IO;
-using PdfSharp.Pdf;
+using PdfSharpMedSol.Pdf;
 
-namespace PdfSharp.Drawing.Internal
+namespace PdfSharpMedSol.Drawing.Internal
 {
     /// <summary>
     /// The class that imports images of various formats.

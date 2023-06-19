@@ -29,9 +29,9 @@
 
 using System;
 using System.Collections.Generic;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Drawing.Layout
+namespace PdfSharpMedSol.Drawing.Layout
 {
     /// <summary>
     /// Represents a very simple text formatter.

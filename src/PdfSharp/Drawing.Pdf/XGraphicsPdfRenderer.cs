@@ -34,7 +34,7 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Collections.Generic;
 using System.Text;
-using PdfSharp.Events;
+using PdfSharpMedSol.Events;
 #if GDI
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -50,16 +50,16 @@ using Windows.UI.Xaml.Media;
 using SysPoint = Windows.Foundation.Point;
 using SysSize = Windows.Foundation.Size;
 #endif
-using PdfSharp.Fonts.OpenType;
-using PdfSharp.Internal;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.Internal;
-using PdfSharp.Pdf.Advanced;
+using PdfSharpMedSol.Fonts.OpenType;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Advanced;
 
 // ReSharper disable RedundantNameQualifier
 // ReSharper disable CompareOfFloatsByEqualityOperator
 
-namespace PdfSharp.Drawing.Pdf
+namespace PdfSharpMedSol.Drawing.Pdf
 {
     /// <summary>
     /// Represents a drawing surface for PdfPages.

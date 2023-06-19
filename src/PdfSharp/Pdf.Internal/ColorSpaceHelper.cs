@@ -28,9 +28,9 @@
 #endregion
 
 using System;
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
-namespace PdfSharp.Pdf.Internal
+namespace PdfSharpMedSol.Pdf.Internal
 {
     /// <summary>
     /// Helper functions for RGB and CMYK colors.

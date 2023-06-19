@@ -45,12 +45,12 @@ using WpfTypeface = System.Windows.Media.Typeface;
 using WpfGlyphTypeface = System.Windows.Media.GlyphTypeface;
 using WpfStyleSimulations = System.Windows.Media.StyleSimulations;
 #endif
-using PdfSharp.Drawing;
+using PdfSharpMedSol.Drawing;
 
 #pragma warning disable 1591
 // ReSharper disable RedundantNameQualifier
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
     /// <summary>
     /// Default platform specific font resolving.

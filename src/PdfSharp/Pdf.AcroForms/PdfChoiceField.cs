@@ -30,7 +30,7 @@
 using System;
 using System.Diagnostics;
 
-namespace PdfSharp.Pdf.AcroForms
+namespace PdfSharpMedSol.Pdf.AcroForms
 {
     /// <summary>
     /// Represents the base class for all choice field dictionaries.

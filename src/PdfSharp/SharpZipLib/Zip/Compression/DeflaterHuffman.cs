@@ -41,7 +41,7 @@ using System;
 
 // ReSharper disable RedundantThisQualifier
 
-namespace PdfSharp.SharpZipLib.Zip.Compression
+namespace PdfSharpMedSol.SharpZipLib.Zip.Compression
 {
 
     /// <summary>

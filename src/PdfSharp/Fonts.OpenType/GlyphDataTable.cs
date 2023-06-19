@@ -36,7 +36,7 @@ using System.Collections.Generic;
 //using FWord = System.Int16;
 //using UFWord = System.UInt16;
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     /// <summary>
     /// This table contains information that describes the glyphs in the font in the TrueType outline format.

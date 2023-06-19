@@ -29,11 +29,11 @@
 
 using System;
 using System.Diagnostics;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Security;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Security;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents a PDF trailer dictionary. Even though trailers are dictionaries they never have a cross

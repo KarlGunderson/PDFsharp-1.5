@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Drawing.BarCodes
+namespace PdfSharpMedSol.Drawing.BarCodes
 {
     // TODO: Mere with PDFsharp strings table
     /// <summary>

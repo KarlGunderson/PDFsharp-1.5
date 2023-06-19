@@ -30,19 +30,19 @@
 using System;
 using System.Diagnostics;
 using System.IO;
-using PdfSharp.Events;
+using PdfSharpMedSol.Events;
 #if NETFX_CORE
 using System.Threading.Tasks;
 #endif
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Internal;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.AcroForms;
-using PdfSharp.Pdf.Security;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Internal;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.AcroForms;
+using PdfSharpMedSol.Pdf.Security;
 
 // ReSharper disable ConvertPropertyToExpressionBody
 
-namespace PdfSharp.Pdf
+namespace PdfSharpMedSol.Pdf
 {
     /// <summary>
     /// Represents a PDF document.

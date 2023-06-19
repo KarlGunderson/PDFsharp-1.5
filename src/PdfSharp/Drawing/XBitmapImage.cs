@@ -34,7 +34,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 
 #endif
 #if GDI
@@ -63,7 +63,7 @@ using PdfSharp.Internal;
 #pragma warning disable 0169
 #pragma warning disable 0649
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Defines a pixel based bitmap image.

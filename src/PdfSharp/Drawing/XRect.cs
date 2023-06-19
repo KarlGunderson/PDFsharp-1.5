@@ -51,12 +51,12 @@ using SysSize = Windows.Foundation.Size;
 using SysRect = Windows.Foundation.Rect;
 #endif
 #if !EDF_CORE
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 #else
 using PdfSharp.Internal;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Stores a set of four floating-point numbers that represent the location and size of a rectangle.

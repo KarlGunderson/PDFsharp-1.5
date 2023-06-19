@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp
+namespace PdfSharpMedSol
 {
     /// <summary>
     /// Version info of this assembly.

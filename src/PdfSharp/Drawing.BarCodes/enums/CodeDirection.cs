@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Drawing.BarCodes
+namespace PdfSharpMedSol.Drawing.BarCodes
 {
     /// <summary>
     /// Specifies the drawing direction of the code.

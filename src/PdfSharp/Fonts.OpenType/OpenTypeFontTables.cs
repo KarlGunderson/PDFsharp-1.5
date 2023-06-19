@@ -39,7 +39,7 @@ using UFWord = System.UInt16;
 
 // ReSharper disable InconsistentNaming
 
-namespace PdfSharp.Fonts.OpenType
+namespace PdfSharpMedSol.Fonts.OpenType
 {
     internal enum PlatformId
     {

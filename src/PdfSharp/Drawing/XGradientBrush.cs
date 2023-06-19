@@ -29,7 +29,7 @@
 
 using System;
 using System.ComponentModel;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 #if GDI
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -50,7 +50,7 @@ using Microsoft.Graphics.Canvas;
 using Microsoft.Graphics.Canvas.Brushes;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Defines a Brush with a linear gradient.

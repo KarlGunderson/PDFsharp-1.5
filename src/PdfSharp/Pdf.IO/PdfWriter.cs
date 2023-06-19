@@ -33,11 +33,11 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Text;
 using System.IO;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Security;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Security;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf.IO
+namespace PdfSharpMedSol.Pdf.IO
 {
     /// <summary>
     /// Represents a writer for generation of PDF streams. 

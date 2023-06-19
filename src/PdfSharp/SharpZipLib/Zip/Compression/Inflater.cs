@@ -38,10 +38,10 @@
 // exception statement from your version.
 
 using System;
-using PdfSharp.SharpZipLib.Checksums;
-using PdfSharp.SharpZipLib.Zip.Compression.Streams;
+using PdfSharpMedSol.SharpZipLib.Checksums;
+using PdfSharpMedSol.SharpZipLib.Zip.Compression.Streams;
 
-namespace PdfSharp.SharpZipLib.Zip.Compression
+namespace PdfSharpMedSol.SharpZipLib.Zip.Compression
 {
     /// <summary>
     /// Inflater is used to decompress data that has been compressed according

@@ -37,11 +37,11 @@ using System.Drawing.Imaging;
 #if WPF
 using System.Windows.Media;
 #endif
-using PdfSharp.Internal;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Represents a so called 'PDF form external object', which is typically an imported page of an external

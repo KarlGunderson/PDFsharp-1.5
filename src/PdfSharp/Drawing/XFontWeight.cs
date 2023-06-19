@@ -38,7 +38,7 @@ using System.Windows.Media;
 
 // Not used in PDFsharp 1.x.
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
 #if true_  // PDFSHARP20
     /// <summary>

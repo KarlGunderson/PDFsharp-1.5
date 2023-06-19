@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Pdf.Structure
+namespace PdfSharpMedSol.Pdf.Structure
 {
     /// <summary>
     /// Represents a marked-content reference.

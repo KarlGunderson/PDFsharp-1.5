@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Pdf.Internal
+namespace PdfSharpMedSol.Pdf.Internal
 {
     class PdfDiagnostics
     {

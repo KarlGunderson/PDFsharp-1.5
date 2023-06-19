@@ -49,7 +49,7 @@ using System.Threading;
 using System.Globalization;
 #endif
 
-namespace PdfSharp.SharpZipLib.Zip
+namespace PdfSharpMedSol.SharpZipLib.Zip
 {
 
     #region Enumerations

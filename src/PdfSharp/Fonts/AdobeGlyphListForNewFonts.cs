@@ -27,7 +27,7 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
 #if true_
 #if !SILVERLIGHT

@@ -27,12 +27,12 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-namespace PdfSharp
+namespace PdfSharpMedSol
 {
     /// <summary>
     /// Base namespace of PDFsharp. Most classes are implemented in nested namespaces like e. g. PdfSharp.Pdf.
     /// </summary>
-    /// <seealso cref="PdfSharp.Pdf"></seealso>
+    /// <seealso cref="PdfSharpMedSol.Pdf"></seealso>
     [System.Runtime.CompilerServices.CompilerGenerated]
     internal class NamespaceDoc { }
 

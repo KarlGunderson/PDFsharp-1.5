@@ -41,7 +41,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Helper class for processing image files.

@@ -34,7 +34,7 @@ using System.Drawing;
 using System.Windows.Media;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     internal class XKnownColorTable
     {

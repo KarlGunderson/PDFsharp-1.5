@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents the name dictionary.

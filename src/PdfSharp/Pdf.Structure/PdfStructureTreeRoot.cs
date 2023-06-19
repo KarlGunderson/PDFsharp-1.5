@@ -27,9 +27,9 @@
 // DEALINGS IN THE SOFTWARE.
 #endregion
 
-using PdfSharp.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Advanced;
 
-namespace PdfSharp.Pdf.Structure
+namespace PdfSharpMedSol.Pdf.Structure
 {
     /// <summary>
     /// Represents the root of a structure tree.

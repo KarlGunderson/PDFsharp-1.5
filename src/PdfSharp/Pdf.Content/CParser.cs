@@ -29,13 +29,13 @@
 
 using System.Diagnostics;
 using System.IO;
-using PdfSharp.Internal;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Content.Objects;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Content.Objects;
 
 #pragma warning disable 1591
 
-namespace PdfSharp.Pdf.Content
+namespace PdfSharpMedSol.Pdf.Content
 {
     /// <summary>
     /// Provides the functionality to parse PDF content streams.

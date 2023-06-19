@@ -40,10 +40,10 @@ using System.Windows.Markup;
 using WpfFontFamily = System.Windows.Media.FontFamily;
 using WpfFontStyle = System.Windows.FontStyle;
 #endif
-using PdfSharp.Fonts;
-using PdfSharp.Fonts.OpenType;
+using PdfSharpMedSol.Fonts;
+using PdfSharpMedSol.Fonts.OpenType;
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Defines a group of typefaces having a similar basic design and certain variations in styles.

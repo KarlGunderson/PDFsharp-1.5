@@ -30,10 +30,10 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.IO;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Pdf.IO;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Internal;
 #if !NETFX_CORE && !UWP
 using System.Security.Cryptography;
 #endif
@@ -41,7 +41,7 @@ using System.Security.Cryptography;
 #pragma warning disable 0169
 #pragma warning disable 0649
 
-namespace PdfSharp.Pdf.Security
+namespace PdfSharpMedSol.Pdf.Security
 {
     /// <summary>
     /// Represents the standard PDF security handler.

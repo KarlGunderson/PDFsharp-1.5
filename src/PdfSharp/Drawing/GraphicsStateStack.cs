@@ -37,7 +37,7 @@ using System.Drawing.Drawing2D;
 using System.Windows.Media;
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     /// <summary>
     /// Represents a stack of XGraphicsState and XGraphicsContainer objects.

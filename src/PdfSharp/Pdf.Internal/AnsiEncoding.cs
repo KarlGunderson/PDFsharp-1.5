@@ -29,7 +29,7 @@
 
 using System.Text;
 
-namespace PdfSharp.Pdf.Internal
+namespace PdfSharpMedSol.Pdf.Internal
 {
     /// <summary>
     /// An encoder for PDF AnsiEncoding.

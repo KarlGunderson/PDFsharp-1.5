@@ -28,10 +28,10 @@
 #endregion
 
 using System;
-using PdfSharp.Internal;
-using PdfSharp.Pdf;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf;
 
-namespace PdfSharp.Fonts
+namespace PdfSharpMedSol.Fonts
 {
     /// <summary>
     /// Provides functionality to specify information about the handling of fonts in the current application domain.

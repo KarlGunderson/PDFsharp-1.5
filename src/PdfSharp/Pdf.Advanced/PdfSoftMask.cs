@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 using System.Windows.Media;
 #endif
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents a PDF soft mask.

@@ -31,9 +31,9 @@ using System;
 using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Represents the cross-reference table of a PDF document. 

@@ -1,7 +1,7 @@
-﻿using PdfSharp.Drawing;
-using PdfSharp.Pdf.Internal;
+﻿using PdfSharpMedSol.Drawing;
+using PdfSharpMedSol.Pdf.Internal;
 
-namespace PdfSharp.Pdf.Advanced
+namespace PdfSharpMedSol.Pdf.Advanced
 {
     /// <summary>
     /// Creates the named destination parameters.

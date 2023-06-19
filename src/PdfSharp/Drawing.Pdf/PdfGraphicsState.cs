@@ -37,14 +37,14 @@ using System.Drawing.Drawing2D;
 #endif
 #if WPF
 #endif
-using PdfSharp.Internal;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.Advanced;
-using PdfSharp.Pdf.Internal;
+using PdfSharpMedSol.Internal;
+using PdfSharpMedSol.Pdf;
+using PdfSharpMedSol.Pdf.Advanced;
+using PdfSharpMedSol.Pdf.Internal;
 
 // ReSharper disable CompareOfFloatsByEqualityOperator
 
-namespace PdfSharp.Drawing.Pdf
+namespace PdfSharpMedSol.Drawing.Pdf
 {
     /// <summary>
     /// Represents the current PDF graphics state.

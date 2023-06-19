@@ -28,7 +28,7 @@
 #endregion
 
 using System;
-using PdfSharp.Internal;
+using PdfSharpMedSol.Internal;
 #if GDI
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -43,7 +43,7 @@ using WpfBrush =System.Windows.Media.Brush;
 #if UWP
 #endif
 
-namespace PdfSharp.Drawing
+namespace PdfSharpMedSol.Drawing
 {
     // TODO Free GDI objects (pens, brushes, ...) automatically without IDisposable.
     /// <summary>

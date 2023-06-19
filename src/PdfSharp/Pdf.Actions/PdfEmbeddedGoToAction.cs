@@ -29,9 +29,9 @@
 
 using System;
 using System.Diagnostics;
-using PdfSharp.Pdf.IO;
+using PdfSharpMedSol.Pdf.IO;
 
-namespace PdfSharp.Pdf.Actions
+namespace PdfSharpMedSol.Pdf.Actions
 {
     /// <summary>
     /// Represents a PDF Embedded Goto action.

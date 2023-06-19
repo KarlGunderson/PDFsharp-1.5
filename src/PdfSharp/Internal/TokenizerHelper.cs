@@ -31,7 +31,7 @@ using System;
 using System.Globalization;
 
 #if !EDF_CORE
-namespace PdfSharp.Internal
+namespace PdfSharpMedSol.Internal
 #else
 namespace Edf.Internal
 #endif
